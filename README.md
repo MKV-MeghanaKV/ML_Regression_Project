@@ -8,4 +8,4 @@
 ```conda activate C:\Users\MEGHANA\Desktop\House_Price\venv```
 
 ### Install all necessary libraries
-```pip insstall -r requirements.txt```
+```pip install -r requirements.txt```
